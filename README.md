@@ -30,3 +30,9 @@ $ git clone git@github.com:DC-Jade/algorithm.git
 2. build && run
 ```bash
 ```
+
+## [factorial_r](./src/greet_r.cpp)
+
+```C
+/* if (getchar() == '\n') continue; escape return while using getchar */
+```
