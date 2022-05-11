@@ -48,6 +48,7 @@ $ git clone git@github.com:DC-Jade/algorithm.git
 ### [quick_sort_r](./src/quick_sort_r.cpp)
 
 ```C
-
+/* Partition: find right pos of pivot */
+/* and place lower element on left of pivot, greater element on right */ 
 ```
 
