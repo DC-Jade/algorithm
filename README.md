@@ -31,7 +31,7 @@ $ git clone git@github.com:DC-Jade/algorithm.git
 ```bash
 ```
 
-## Recursive
+## Recursion
 - a function which call itself
 - workflow
 1. base case
