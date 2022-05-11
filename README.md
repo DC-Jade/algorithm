@@ -1,7 +1,7 @@
 # algorithm
 
 ## Introduction
-- This is a datastructure learning notebook
+- This is a algorithm learning notebook
 
 - Ref: \
 
@@ -31,7 +31,13 @@ $ git clone git@github.com:DC-Jade/algorithm.git
 ```bash
 ```
 
-## [factorial_r](./src/greet_r.cpp)
+## Recursive
+- a function which call itself
+- condition
+1. base case
+2. recursive case
+
+### [factorial_r](./src/greet_r.cpp)
 
 ```C
 /* if (getchar() == '\n') continue; escape return while using getchar */
