@@ -9,17 +9,17 @@
 
 ## Supported
 
-* os
+- os
 
   Ubuntu 16.04 LTS
 
-* compiler
+- compiler
 
   g++ version 9.4.0
 
 ## Required
 
-* Use cmake version 3.22 to build this project
+- Use cmake version 3.22 to build this project
 
 ## Run test
 
@@ -33,7 +33,7 @@ $ git clone git@github.com:DC-Jade/algorithm.git
 
 ## Recursive
 - a function which call itself
-- condition
+- workflow
 1. base case
 2. recursive case
 
@@ -42,3 +42,12 @@ $ git clone git@github.com:DC-Jade/algorithm.git
 ```C
 /* if (getchar() == '\n') continue; escape return while using getchar */
 ```
+
+## Divide and Conquer, D&C
+
+### [quick_sort_r](./src/quick_sort_r.cpp)
+
+```C
+
+```
+
